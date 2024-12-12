@@ -44,20 +44,6 @@
 
 ---
 
-### 🔍 Explore the Code:
-
-```bash
-# Clone the repository
-$ git clone https://github.com/your-username/module-7-python-devops.git
-
-# Navigate to the directory
-$ cd module-7-python-devops
-
-# Run Flask web app
-$ python app.py
-```
-
----
 
 ### 📚 Notes for Beginners:
 
