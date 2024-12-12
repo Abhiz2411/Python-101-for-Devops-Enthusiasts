@@ -47,6 +47,10 @@
 
 ### 📚 Notes for Beginners:
 
+- Change directory to Notes directory for detailed notes
+  ```bash
+  cd Notes
+  ```
 - **Getting Started**: Python installation, environment variables, and using VS Code.
 - **Core Concepts**: Loops, conditions, and functions explained concisely.
 - **Scripts & Flask**: Real-world use cases and examples.
