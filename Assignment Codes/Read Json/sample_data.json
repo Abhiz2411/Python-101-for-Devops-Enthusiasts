@@ -1,0 +1,16 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "skills": ["Python", "Terraform", "Kubernetes"],
+    "projects": [
+        {
+            "title": "Portfolio Website",
+            "status": "Completed"
+        },
+        {
+            "title": "DevOps Automation",
+            "status": "In Progress"
+        }
+    ]
+}
