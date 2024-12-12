@@ -2,6 +2,10 @@
 
 ---
 
+![Overview of Python preview image](Assests/overview_image.png)
+
+---
+
 ### 📊 Repository Overview:
 
 - **Purpose**: Explore the basics of Python, build essential scripts, and leverage Flask for web app creation.  
@@ -67,12 +71,6 @@ $ python app.py
 
 - **Portfolio**: [Abhijit Zende](https://abhijit-zende.vercel.app/)
 - **Hashnode**: [Curious Abhi](https://abhijitzende.hashnode.dev/)
-
----
-
-### 🌈 Preview:
-
-![Python Overview Preview](Assets/preview_image.png)
 
 ---
 
