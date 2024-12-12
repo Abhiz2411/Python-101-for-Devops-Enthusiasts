@@ -47,7 +47,7 @@
 
 ### 📚 Notes for Beginners:
 
-- Change directory to Notes directory for detailed notes
+- Change directory to `Notes` directory for detailed notes
   ```bash
   cd Notes
   ```
